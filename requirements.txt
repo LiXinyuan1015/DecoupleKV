@@ -1,0 +1,9 @@
+transformers==4.57.3
+datasets
+matplotlib
+seaborn
+diffusers
+open_clip_torch
+accelerate
+swanlab
+ipywidgets

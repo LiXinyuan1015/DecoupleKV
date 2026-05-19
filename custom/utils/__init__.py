@@ -1,0 +1,1 @@
+from .generic import ModelOutput, torch_int, can_return_tuple
